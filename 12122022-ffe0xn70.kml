@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Placemark>
+<name>yahoo</name>
+<description>dsadsa</description>
+<Point>
+<coordinates>-119.17968750000001,54.89901048590529,0</coordinates>
+
+</Point>
+</Placemark>
+
+
+<Placemark>
+<name>google</name>
+<description>dsadsa</description>
+<Point>
+<coordinates>-118.17968750000001,58.89901048590529,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>google</name>
+<description>dsadsa</description>
+<Point>
+<coordinates>-96.17968750000001,58.89901048590529,0</coordinates>
+</Point>
+</Placemark>
+
+</kml>
